@@ -3,7 +3,7 @@ import OrderDetails from './components/OrderDetails/OrderDetails'
 
 const App = () => {
   return (
-    <div>
+    <div className='bg-blue-300 h-[100vh] flex justify-center items-center'>
       <OrderDetails/>
     </div>
   )
